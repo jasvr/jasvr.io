@@ -1,0 +1,15 @@
+body{
+color:magenta;   
+text-align:center; 
+}
+
+*:focus{
+    outline: 0;
+    box-shadow: 0 0 10px #eb0486;
+    border-color: #eb0486;
+}
+
+a:focus{
+    color: #eb0486;
+    font-weight: bold;
+}

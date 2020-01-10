@@ -1,0 +1,8 @@
+body{
+color:magenta;   
+text-align:center; 
+}
+
+*:focus{
+    outline: 0;
+}
