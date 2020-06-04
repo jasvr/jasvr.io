@@ -1,9 +1,0 @@
-body{
-color:magenta;   
-text-align:center; 
-}
-
-*:focus{
-    outline: 0;
-    box-shadow: 0 0 ;
-}
