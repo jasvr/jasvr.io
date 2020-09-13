@@ -13,6 +13,7 @@ body {
   background-color: white;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 body::-webkit-scrollbar {
@@ -215,5 +216,15 @@ main {
   display: block;
 }
 
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  text-align: center;
+}
 
 
